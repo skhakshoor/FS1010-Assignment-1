@@ -6,4 +6,4 @@ This simple landing page of the "Toronto City" has the following features:
 * "Open Sans" Google Fonts - regular and bold
 * font awesome icons in the footer
 
-** Note: Instead of using linear gradient, I used "clip-path" which I found it easier to adjust with screen size.
+** Note: Instead of using linear gradient, I used "clip-path" to explore other solutions.
